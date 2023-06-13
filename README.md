@@ -3,6 +3,6 @@ thi is a practice for `git`
 
 these line is eddited on online.
 
-test for git pull
+tests for git confilict
 
 test 
